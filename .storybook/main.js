@@ -20,7 +20,7 @@ const config = {
       ...(config.resolve || {}),
       alias: {
         ...(config.resolve?.alias || {}),
-        "@": path.resolve(__dirname, "../design-system"), // 👈 points to project root
+        "@": path.resolve(__dirname, "../design-system"),
       },
     };
     return config;
