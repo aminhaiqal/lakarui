@@ -1,0 +1,222 @@
+:root {
+    /* Blue shades */
+    --blue-10: #edf5ff;
+    --blue-20: #d0e2ff;
+    --blue-30: #a6c8ff;
+    --blue-40: #78a9ff;
+    --blue-50: #4589ff;
+    --blue-60: #0f62fe;
+    --blue-70: #0043ce;
+    --blue-80: #002d9c;
+    --blue-90: #001d6c;
+    --blue-100: #001141;
+
+    /* Green shades */
+    --green-10: #defbe6;
+    --green-20: #a7f0ba;
+    --green-30: #6fdc8c;
+    --green-40: #42be65;
+    --green-50: #24a148;
+    --green-60: #198038;
+    --green-70: #0e6027;
+    --green-80: #044317;
+    --green-90: #022d0d;
+    --green-100: #071908;
+
+    /* Magenta shades */
+    --magenta-10: #fff0f7;
+    --magenta-20: #ffd6e8;
+    --magenta-30: #ffafd2;
+    --magenta-40: #ff7eb6;
+    --magenta-50: #ee5396;
+    --magenta-60: #d02670;
+    --magenta-70: #9f1853;
+    --magenta-80: #740937;
+    --magenta-90: #510224;
+    --magenta-100: #2a0a18;
+
+    /* Purple shades */
+    --purple-10: #f6f2ff;
+    --purple-20: #e8daff;
+    --purple-30: #d4bbff;
+    --purple-40: #be95ff;
+    --purple-50: #a56eff;
+    --purple-60: #8a3ffc;
+    --purple-70: #6929c4;
+    --purple-80: #491d8b;
+    --purple-90: #31135e;
+    --purple-100: #1c0f30;
+
+    /* Red shades */
+    --red-10: #fff1f1;
+    --red-20: #ffd7d9;
+    --red-30: #ffb3b8;
+    --red-40: #ff8389;
+    --red-50: #fa4d56;
+    --red-60: #da1e28;
+    --red-70: #a2191f;
+    --red-80: #750e13;
+    --red-90: #520408;
+    --red-100: #2d0709;
+
+    /* Teal shades */
+    --teal-10: #d9fbfb;
+    --teal-20: #9ef0f0;
+    --teal-30: #3ddbd9;
+    --teal-40: #08bdba;
+    --teal-50: #009d9a;
+    --teal-60: #007d79;
+    --teal-70: #005d5d;
+    --teal-80: #004144;
+    --teal-90: #022b30;
+    --teal-100: #081a1c;
+
+    /* Orange shades */
+    --orange-10: #fff2e8;
+    --orange-20: #ffd9be;
+    --orange-30: #ffb784;
+    --orange-40: #ff832b;
+    --orange-50: #eb6200;
+    --orange-60: #ba4e00;
+    --orange-70: #8a3800;
+    --orange-80: #5e2900;
+    --orange-90: #3e1a00;
+    --orange-100: #231000;
+}
+
+:root {
+    /* Blue hovers */
+    --blue-10-hover: #dbebff;
+    --blue-20-hover: #b8d3ff;
+    --blue-30-hover: #8ab6ff;
+    --blue-40-hover: #5c97ff;
+    --blue-50-hover: #1f70ff;
+    --blue-60-hover: #0050e6;
+    --blue-70-hover: #0053ff;
+    --blue-80-hover: #0039c7;
+    --blue-90-hover: #00258a;
+    --blue-100-hover: #001f75;
+
+    /* Green hovers */
+    --green-10-hover: #b6f6c8;
+    --green-20-hover: #74e792;
+    --green-30-hover: #36ce5e;
+    --green-40-hover: #3bab5a;
+    --green-50-hover: #208e3f;
+    --green-60-hoper: #166f31;
+    --green-70-hover: #11742f;
+    --green-80-hover: #05521c;
+    --green-90-hover: #033b11;
+    --green-100-hover: #0d300f;
+
+    /* Magenta hovers */
+    --magenta-10-hover: #ffe0ef;
+    --magenta-20-hover: #ffbdda;
+    --magenta-30-hover: #ff94c3;
+    --magenta-40-hover: #ff57a0;
+    --magenta-50-hover: #e3176f;
+    --magenta-60-hover: #b0215f;
+    --magenta-70-hover: #bf1d63;
+    --magenta-80-hover: #8e0b43;
+    --magenta-90-hover: #68032e;
+    --magenta-100-hover: #53142f;
+
+    /* Purple hovers */
+    --purple-10-hover: #ede5ff;
+    --purple-20-hover: #dcc7ff;
+    --purple-30-hover: #c5a3ff;
+    --purple-40-hover: #ae7aff;
+    --purple-50-hover: #9352ff;
+    --purple-60-hover: #7822fb;
+    --purple-70-hover: #7c3dd6;
+    --purple-80-hover: #5b24ad;
+    --purple-90-hover: #40197b;
+    --purple-100-hover: #341c59;
+
+    /* Red hovers */
+    --red-10-hover: #ffe0e0;
+    --red-20-hover: #ffc2c5;
+    --red-30-hover: #ff99a0;
+    --red-40-hover: #ff6168;
+    --red-50-hover: #ee0713;
+    --red-60-hover: #b81922;
+    --red-70-hover: #c21e25;
+    --red-80-hover: #921118;
+    --red-90-hover: #66050a;
+    --red-100-hover: #540d11;
+
+    /* Teal hovers */
+    --teal-10-hover: #acf6f6;
+    --teal-20-hover: #57e5e5;
+    --teal-30-hover: #25cac8;
+    --teal-40-hover: #07aba9;
+    --teal-50-hover: #008a87;
+    --teal-60-hover: #006b68;
+    --teal-70-hover: #007070;
+    --teal-80-hover: #005357;
+    --teal-90-hover: #033940;
+    --teal-100-hover: #0f3034;
+
+    /* Orange hovers */
+    --orange-10-hover: #ffe2cc;
+    --orange-20-hover: #ffc69e;
+    --orange-30-hover: #ff9d57;
+    --orange-40-hover: #fa6800;
+    --orange-50-hover: #cc5500;
+    --orange-60-hover: #9e4200;
+    --orange-70-hover: #a84400;
+    --orange-80-hover: #753300;
+    --orange-90-hover: #522200;
+    --orange-100-hover: #421e00;
+}
+
+:root {
+    /* Component Spacing */
+    --space-1: 2px;
+    --space-2: 4px;
+    --space-3: 8px;
+    --space-4: 12px;
+    --space-5: 16px;
+    --space-6: 24px;
+    --space-7: 32px;
+    --space-8: 40px;
+    --space-9: 48px;
+
+    --gap-1: 16px;
+    --gap-2: 24px;
+    --gap-3: 32px;
+    --gap-4: 48px;
+    --gap-5: 64px;
+    --gap-6: 96px;
+    --gap-7: 160px;
+}
+
+:root {
+  /* Font Sizes */
+  --size-xs: 11.11px;
+  --size-sm: 13.33px;
+  --size-base: 16px;
+  --size-h6: 19.2px;
+  --size-h5: 23.04px;
+  --size-h4: 27.65px;
+  --size-h3: 33.18px;
+  --size-h2: 39.81px;
+  --size-h1: 47.78px;
+
+  /* Font Weights */
+  --weight-light: 300;
+  --weight-normal: 400;
+  --weight-medium: 500;
+  --weight-semibold: 600;
+  --weight-bold: 700;
+
+  /* Line Heights */
+  --line-height-tight: 1.2;
+  --line-height-normal: 1.5;
+  --line-height-loose: 1.75;
+
+  /* Letter Spacing */
+  --tracking-tight: -0.025em;
+  --tracking-normal: 0em;
+  --tracking-wide: 0.1em;
+}
